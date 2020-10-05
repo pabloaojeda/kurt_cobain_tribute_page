@@ -25,6 +25,16 @@
       max-width: 50%;
     }
   }
-  
 
+ a:hover {
+   color:blue;
+ } 
+  
+.textcenter
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 3px;
+}
   
